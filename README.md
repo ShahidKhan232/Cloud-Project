@@ -1,4 +1,4 @@
-# Cloud Project Repository
+# Cloud Projects Repository
 
 Welcome to the **Cloud Project Repository**, which showcases various cloud-based solutions implemented using AWS. This repository contains solutions to common cloud challenges, covering areas such as hosting, scaling, security, and cost optimization.
 
